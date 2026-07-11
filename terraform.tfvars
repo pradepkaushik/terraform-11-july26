@@ -18,4 +18,4 @@ private_subnet_1 = "10.0.3.0/24"
 # S3 Configuration
 #####################################
 
-bucket_name = "your-unique-s3-bucket-name"
+bucket_name = "pradeepkaushik-tf-state-2026-0711"
